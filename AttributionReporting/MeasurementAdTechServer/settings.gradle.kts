@@ -27,4 +27,4 @@ pluginManagement {
       }
     }
   }
-}
+}kill
